@@ -13,3 +13,5 @@
 
 ##### git clone https://github.com/mad0511/Deepflux-Movie-Prediction-Data-ETL_task.git
 ##### python box_ofc_data_collection.py -c config.json
+
+###### movies.db as db
